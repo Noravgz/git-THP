@@ -1,0 +1,31 @@
+.conteneur {
+    display: flex;
+    justify-content: space-between;
+}
+
+.connexion{
+background-color: rgb(52, 67, 165);
+color: blanchedalmond;
+}
+
+body{
+    text-align: center;
+}
+
+#recheche {
+    display: flex;
+    text-align: center;
+    width : 40px;
+    height: 40px;
+    border-radius: 25px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+;div feuille{
+    display: flex;
+    text-align: center;
+}
+
